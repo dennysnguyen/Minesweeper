@@ -1,4 +1,4 @@
-# Minesweeper Clone 💣
+# Minesweeper_Clone 💣
 
 A fully functional, polished Minesweeper game built from scratch using **C++** and the **SFML**. 
 
@@ -36,4 +36,4 @@ To build and run this project locally, you will need:
 ### Installation & Execution
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/dennysnguyen/Minesweeper.git](https://github.com/dennysnguyen/Minesweeper.git)
+   git clone [https://github.com/dennysnguyen/Minesweeper_Clone.git](https://github.com/dennysnguyen/Minesweeper_Clone.git)
