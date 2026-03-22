@@ -13,13 +13,13 @@ This project recreates the classic desktop puzzle game, challenging players to c
 
 ## 📸 Screenshots & Gameplay
 
-### Start Screen & Menu
+### Start Screen
 ![Start Screen](media/start_screen.png) 
+### Difficulty Menu
 ![Level Select](media/level_select.png)
 
-### Active Gameplay
-Watch the game in action!
-<video src="media/gameplay.mp4" controls="controls" muted="muted" playsinline="playsinline"></video>
+### Gameplay
+https://github.com/user-attachments/assets/28040636-c6d9-4f21-a412-fb569162fc93
 
 ## 🛠️ Technologies Used
 * **Language:** C++
