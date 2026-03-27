@@ -1,9 +1,9 @@
-# Minesweeper_Clone 💣
+# Minesweeper_Clone 
 
-A fully functional, polished Minesweeper game built from scratch using **C++** and the **SFML**. 
+Minesweeper game built from scratch using **C++** and the **SFML**. 
 
 ## What It Does
-This project recreates the classic desktop puzzle game, challenging players to clear a hidden grid without detonating any mines. It features a clean, modern UI and implements all standard Minesweeper logic, including tile revealing, flag placement, and recursive empty-space clearing.
+This project recreates the classic desktop puzzle game, challenging players to clear a hidden grid without detonating any mines. It features a clean, modern UI and implements all standard Minesweeper logic, including tile revealing, flag placement, and recursive empty-space clearing. :)
 
 ### Key Features
 * **Three Difficulty Levels:** Choose from Easy (9x9), Medium (16x16), or Hard (30x16).
